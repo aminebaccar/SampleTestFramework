@@ -1,0 +1,34 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Test Scenario",
+        "description": "",
+        "id": "bdd;test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 69560000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I use the test step",
+            "match": {
+              "location": "StepDefinitions.i_use_the_test_step()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "BDD",
+    "description": "",
+    "id": "bdd",
+    "keyword": "Feature",
+    "uri": "BDD.feature"
+  }
+]
